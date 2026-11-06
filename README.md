@@ -58,8 +58,8 @@ ESPCN was selected for the final implementation due to its optimal balance of re
 
 1. Clone the repository:
 ```
-git clone https://github.com/mrraylau321/AI-Driven-Handwritting-Removal-Tool.git
-cd AI-Driven-Handwritting-Removal-Tool
+git clone https://github.com/mrraylau321/AI-Driven-Handwriting-Removal-Tool.git
+cd AI-Driven-Handwriting-Removal-Tool
 ```
 
 2. Install required dependencies:
